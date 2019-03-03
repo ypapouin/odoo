@@ -8,4 +8,4 @@ declaration.
 
 Signed,
 
-Yann Papouin yann.papouin@gmail.com https://github.com/ypapouin
+Yann Papouin y.papouin@dec-industrie.com https://github.com/ypapouin
